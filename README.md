@@ -5,7 +5,7 @@ Related Task-aware Curriculum Meta-learning
 
 - Extend MAML (Model-Agnostic Meta-Learning) algorithm
 - Related Task-aware: Autoencoder for task similarity computation
-- Curriculum Strategy: difficulty predictor for task sampling
+- Curriculum Strategy: Difficulty predictor for task sampling
 - Support for N-way K-shot learning
 - Freezing layers and Fine-tuning capabilities for target tasks
 
