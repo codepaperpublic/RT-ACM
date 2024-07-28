@@ -1,4 +1,4 @@
-# RTACM: 
+# RT-ACM: 
 Related Task-aware Curriculum Meta-learning
 
 ## Features
