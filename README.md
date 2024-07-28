@@ -3,11 +3,11 @@ Related Task-aware Curriculum Meta-learning
 
 ## Features
 
-- Meta-learning based on the MAML (Model-Agnostic Meta-Learning) algorithm
+- Extend MAML (Model-Agnostic Meta-Learning) algorithm
 - Related Task-aware: Autoencoder for task similarity computation
 - Curriculum Strategy: difficulty predictor for task sampling
 - Support for N-way K-shot learning
-- Fine-tuning capabilities for target tasks
+- Freezing layers and Fine-tuning capabilities for target tasks
 
 ## Requirements
 
