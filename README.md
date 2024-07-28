@@ -30,5 +30,5 @@ You can modify the hyperparameters and model configurations in the `main.py` fil
 
 - `models.py`: Contains neural network model definitions (Autoencoder, DifficultyPredictor, BearingNet)
 - `rtacm.py`: Implements the RTACM class with meta-learning algorithms
-- `main.py`: Main script to run the RTACM system
+- `main.py`: Main script to run the RTACM framework
   
